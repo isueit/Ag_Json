@@ -1066,7 +1066,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Little Swan Lake Winery",
         "Address": "1350 320th Ave<br />Estherville, IA 51334",
-        "Website": "<a href=\"http://www.lslwinery.com/\"</a>"
+        "Website": "http://www.lslwinery.com/"
       },
       "geometry": {
         "type": "Point",
