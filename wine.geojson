@@ -333,7 +333,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Calico Skies Vineyard & Winery",
         "Address": "2368 Able Boulevard<br />Inwood, IA 51240",
-        "Website": "<a href='http://www.calicoskieswine.com/'>http://www.calicoskieswine.com/</a>"
+        "Website": "<a href=\"http://www.calicoskieswine.com/\">http://www.calicoskieswine.com/</a>"
       },
       "geometry": {
         "type": "Point",
