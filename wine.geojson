@@ -1,0 +1,1852 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "99 Bottles Winery",
+        "Address": "2695 Quali Ave<br />Garner, IA 50438",
+        "Website": "<a href=\"http://www.99bottleswinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.655828,
+          43.154982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Ackerman Winery",
+        "Address": "4406 220 Hwy<br />Amana, IA 52203",
+        "Website": "<a href=\"https://ackermanwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.893347,
+          41.80057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Airport Road Vineyard & Winery",
+        "Address": "2555 Lexington Ave<br />Mt. Pleasant, IA 52641",
+        "Website": "<a href=\"http://www.airportroadvineyard.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.516054,
+          40.937423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Annelise Vineyard & Winery",
+        "Address": "1510 Hwy 92<br />Indianola, IA 50125",
+        "Website": "<a href=\"http://annelisewinery.com/home.php\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.541914,
+          41.357943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Ardon Creek Vineyard & Winery",
+        "Address": "2391 Independance Ave<br />Letts, IA 52754",
+        "Website": "<a href=\"http://www.ardoncreek.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.212243,
+          41.394866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "BackCountry Winery",
+        "Address": "3533 Fenton Ave<br />Stratford, IA 50249",
+        "Website": "<a href=\"http://www.backcountrywinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.874239,
+          42.277066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Barrel Head Winery",
+        "Address": "9995 Laudeville Rd<br />Dubuque, IA 52003",
+        "Website": "<a href=\"https://www.facebook.com/barrelhead.winery\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.684399,
+          42.392837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Bel-Aire Estates Winery",
+        "Address": "4351 Dancer Ave<br />St. Ansgar, IA 50472",
+        "Website": "<a href=\"http://belairewinery.com/index.html\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.964949,
+          43.392986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Blond Hill Vineyard",
+        "Address": "3294 170th St<br />Rock Rapids, IA 51246",
+        "Website": "<a href=\"https://www.facebook.com/ackermanwinery/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.13711,
+          43.404285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Bluestem Winery",
+        "Address": "305 3rd St<br />Parkersburg, IA 50665",
+        "Website": "<a href=\"https://www.bluestemwine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.787283,
+          42.577264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Bodega Victoriana Vineyard & Winery",
+        "Address": "17 N Vine St<br />Glenwood, IA 51534",
+        "Website": "<a href=\"https://www.bodegavictoriana.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.741498,
+          41.046876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Breezy Hills Winery",
+        "Address": "31735 Tamrack Rd<br />Minden, IA 51553",
+        "Website": "<a href=\"http://bwella.com/bwella/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.582149,
+          41.46129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Brick Arch Winery",
+        "Address": "116 West Main St<br />West Branch, IA 52358",
+        "Website": "<a href=\"http://www.brickarchwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.347359,
+          41.671189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Broken Kettle Wine Cellars",
+        "Address": "130 Reed St<br />Akron, IA 51001",
+        "Website": "<a href=\"https://www.facebook.com/BrokenKettleWineCellars/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.560311,
+          42.828702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Brush Creek Winery",
+        "Address": "16415 298th Ave<br />Bellevue, IA 52031",
+        "Website": "<a href=\"http://www.brushcreekwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.563608,
+          42.176217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Buchanan House Winery",
+        "Address": "726 Green Road<br />Tipton, IA 52772",
+        "Website": "<a href=\"http://buchananhousewinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.224842,
+          41.757118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Buzzed Bee Meadery, Inc",
+        "Address": "1755 340th St<br />Melbourne, IA 50162",
+        "Website": "<a href=\"http://www.buzzed-bee-meadery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.074299,
+          41.862634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Cafe Rose Winery",
+        "Address": "PO Box 52<br />119 North Washington<br />Edgewood, IA 52042",
+        "Website": "<a href=\"http://www.caferoseiowa.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.40117,
+          42.644628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Calico Skies Vineyard & Winery",
+        "Address": "2368 Able Boulevard<br />Inwood, IA 51240",
+        "Website": "<a href=\"http://www.calicoskieswine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.506395,
+          43.307505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Cat Tale Country Wines",
+        "Address": "537 2nd St<br />Ocheyedan, IA 51354",
+        "Website": "<a href=\"http://www.cattalecountrywines.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.538065,
+          43.416085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Cedar Ridge Winery & Distillery",
+        "Address": "1441 Marak Road<br />Swisher, IA 52338",
+        "Website": "<a href=\"http://www.crwine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.67753,
+          41.83121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Cedar Valley Vineyars & Winery",
+        "Address": "2034 Dewberry<br />Batavia, IA 52533",
+        "Website": "<a href=\"http://cedarvalleywine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.116975,
+          41.010408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Christian Herschler District Winery",
+        "Address": "503 Franklin 6th St<br />Donnellson, IA 52625",
+        "Website": "<a href=\"http://christianherschler.wix.com/winery#!\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.513782,
+          40.665213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Coral Cellars",
+        "Address": "2024 Lynncrest Dr<br />Coralville, IA 52241",
+        "Website": "<a href=\"http://www.coralcellars.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.594776,
+          41.701432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Corning Winery & Vineyard",
+        "Address": "2300 State Hwy 148<br />Corning, IA 50841",
+        "Website": "<a href=\"https://www.facebook.com/pages/Corning-Winery-Vineyard/161963297166833\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.737616,
+          40.970493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Country Wine Barn",
+        "Address": "4213 Tanager Ave<br />Primghar, IA 51245",
+        "Website": "<a href=\"http://countrybarnwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.544755,
+          43.038247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Covered Bridges Winery, LLC",
+        "Address": "1899 Kiowa Lane<br />Winterset, IA 50273",
+        "Website": "<a href=\"http://coveredbridgeswinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.051956,
+          41.366711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Crane Winery",
+        "Address": "11420 Main St<br />Selma, IA 52551",
+        "Website": "<a href=\"http://www.cranewinery.net/index.html\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.153709,
+          40.872381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Crimson Sunset Vineyard & Winery",
+        "Address": "24765 Hwy 151<br />Cascade, IA 52033",
+        "Website": "<a href=\"http://www.crimsonsunsetwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.044036,
+          42.294795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Dale Valley Vineyards & Winery",
+        "Address": "3097 285 St<br />Stuart, IA 50250",
+        "Website": "<a href=\"http://dalevalleyvineyard.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.337781,
+          41.597241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Daly Creek Winery & Bistro",
+        "Address": "106 N Main Ford St<br />Anamosa, IA 52205",
+        "Website": "<a href=\"http://www.dalycreekwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.285533,
+          42.108939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Danish Countryside Vines & Wines",
+        "Address": "1425 Littlefield Drive<br />Exira, IA 50076",
+        "Website": "<a href=\"http://www.danishcountrysidevinesandwines.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.018332,
+          41.591653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Deja Vine Vineyards & Winery",
+        "Address": "259 Broad Ave<br />Springville, IA 52336",
+        "Website": "<a href=\"http://www.dejavine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.44267,
+          42.059445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Sweetland Farmstead Winery",
+        "Address": "3111 Hwy 61<br />Muscatine, IA 52761",
+        "Website": "<a href=\"https://www.facebook.com/SweetlandFarmsteadLlc/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.957607,
+          41.500322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Dome Winery LLC",
+        "Address": "1324 Hwy 69<br />Belmond, IA 50421",
+        "Website": "<a href=\"https://www.facebook.com/Dome-Winery-452386958242044/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.616712,
+          42.859435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Double L Vineyard / Mississippi Valley Winery",
+        "Address": "40608 Partridge Rd<br />Holy Cross, IA 52053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.003322,
+          42.673752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Dubuque Heritage Winery",
+        "Address": "3365 Ashley Lane<br />Dubuque, IA 52002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.724369,
+          42.521242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Eagle City Winery",
+        "Address": "28535 160th St<br />Iowa Falls, IA 50126",
+        "Website": "<a href=\"http://eaglecitywinery.com/pages/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.148038,
+          42.471035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Eagles Landing Winery",
+        "Address": "PO Box 93<br />82 North St<br />Marquette, IA 52158",
+        "Website": "<a href=\"https://www.facebook.com/eagleslandingwinery\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.178237,
+          43.045047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "East Grove Farms",
+        "Address": "1878 Salem Rd<br />Salem, IA 52649",
+        "Website": "<a href=\"http://eastgrovefarms.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.549364,
+          40.84472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Empty Nest Winery",
+        "Address": "1352 Apple Road<br />Waukon, IA 52172",
+        "Website": "<a href=\"http://www.emptynestwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.567499,
+          43.265524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Engelbrecht Family Winery & Vineyards",
+        "Address": "PO Box 375<br />2866 270th St<br />Fredericksburg, IA 50630",
+        "Website": "<a href=\"http://www.thefarmhousebb.com/winery.htm\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.187371,
+          42.965222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Fireside Winery",
+        "Address": "1755 P Ave V77<br />Marengo, IA 52301",
+        "Website": "<a href=\"http://www.firesidewinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.00665,
+          41.751826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Fox Ridge Winery",
+        "Address": "1465 Landlord Ave<br />Traer, IA 50675",
+        "Website": "<a href=\"http://www.foxridgewine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.465469,
+          42.193601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Garden Winery",
+        "Address": "621 Thomas St<br />Callender, IA 50523",
+        "Website": "<a href=\"http://www.gardenwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.296148,
+          42.36128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Glyn Mawr Vineyard",
+        "Address": "1618 Hwy 38<br />Olin, IA 52320",
+        "Website": "<a href=\"https://glynmawr.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.151833,
+          41.956299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Grandma's Fruit Juice Winery",
+        "Address": "1306 Washington Ave<br />Sheldon, IA 51201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.842213,
+          43.174664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Grant Wood Hills Winery",
+        "Address": "14385 Hwy 64<br />Anamosa, IA 52205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.267722,
+          42.104025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Grape Escape Vineyard",
+        "Address": "1185 40th Place<br />Pleasantville, IA 50225",
+        "Website": "<a href=\"http://grapeescapeiowa.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.273299,
+          41.351756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Hannel Cellars",
+        "Address": "2504 W 15th Place<br />Sioux City, IA 51103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.441863,
+          42.505676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Heartland Harvest Winery LLC",
+        "Address": "2116 290th Ave<br />Fort Madison, IA 52627",
+        "Website": "<a href=\"http://www.heartlandharvestwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.357428,
+          40.652246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Innspiration Vines & Wines",
+        "Address": "1790 510th St<br />Linn Grove, IA 51033",
+        "Website": "<a href=\"https://www.facebook.com/Innspiration-vines-wines-501277119935543/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.231237,
+          42.910631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Iowa Grape Vines Winery",
+        "Address": "18345 55th St<br />Maquoketa, IA 52060",
+        "Website": "<a href=\"http://www.iowagrapevines.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.685122,
+          42.080475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Jasper Winery",
+        "Address": "2400 George Flagg Parkway<br />Des Moines, IA 50321",
+        "Website": "<a href=\"http://jasperwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.650217,
+          41.567129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Jennings Winery",
+        "Address": "111 E Elm St<br />Strawberry Point, IA 52076",
+        "Website": "<a href=\"http://www.jenningswinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.534877,
+          42.680934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "John Ernest Vineyard & Winery",
+        "Address": "3263 N Ave<br />Tama, IA 52339",
+        "Website": "<a href=\"http://www.johnernestvineyard.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.51245,
+          41.965745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "The Winery at Kirkwood",
+        "Address": "6301 Kirkwood Blvd<br />Cedar Rapids, IA 52406",
+        "Website": "<a href=\"http://www.kirkwood.edu/wine\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.650438,
+          41.90556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "La Vida Loca Winery",
+        "Address": "909 E 2nd Ave<br />Indianola, IA 50125",
+        "Website": "<a href=\"http://www.lavidalocawinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.55024,
+          41.357603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Lindon Winery",
+        "Address": "12646 Hwy 61<br />Burlington, IA 52601",
+        "Website": "<a href=\"http://lindonwines.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.156858,
+          40.863799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Little Swan Lake Winery",
+        "Address": "1350 320th Ave<br />Estherville, IA 51334",
+        "Website": "<a href=\"http://www.lslwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.954258,
+          43.447488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Loess Hills Vineyard & Winery",
+        "Address": "1120 Old Highway<br />Crescent, IA 51526",
+        "Website": "<a href=\"http://www.loesshillsvineyardandwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.47728,
+          42.901642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Madigan Winery",
+        "Address": "1536 Lily Rd<br />Lansing, IA 52151",
+        "Website": "<a href=\"http://www.brianrmadigan.com/madigan\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.116177,
+          43.28742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Madison County Winery",
+        "Address": "3021 St. Charles Rd<br />St Charles, IA 50322",
+        "Website": "<a href=\"http://madisoncountywinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.861506,
+          41.285179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Mt. Valley Vineyards & Winery",
+        "Address": "20306 340th St<br />Forest City, IA 50436",
+        "Website": "<a href=\"https://www.facebook.com/Mt-Valley-Vineyard-Winery-145073308879339/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.590091,
+          43.256696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Nearwood Winery",
+        "Address": "210 East Robinson St<br />Knoxville, IA 50138",
+        "Website": "<a href=\"http://www.nearwoodwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.097054,
+          41.318004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "O So Good Winery",
+        "Address": "211 st Ave<br />Dyersville, IA 52040",
+        "Website": "<a href=\"https://www.facebook.com/osogoodwinery/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.986006,
+          42.507726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Odessa Vineyards & Winery",
+        "Address": "10448 77th St<br />Wapello, IA 52653",
+        "Website": "<a href=\"http://odessavineyards.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.121611,
+          41.170949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Old Bank Winery",
+        "Address": "200 N Main St<br />Kanawha, IA 50447",
+        "Website": "<a href=\"http://www.oldbankwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.793202,
+          42.93632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Old Town Vineyard & Winery",
+        "Address": "512 Father Dailey Dr<br />Ida Grove, IA 51445",
+        "Website": "<a href=\"http://www.oldtowniawines.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.45863,
+          42.350104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "The Cellar at White Oak",
+        "Address": "15065 NE White Oak Dr<br />Cambridge, IA 50046",
+        "Website": "<a href=\"http://whiteoakcellar.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.531828,
+          41.835328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Park Farm Winery",
+        "Address": "15159 Thielen Road<br />Bankston, IA 52039",
+        "Website": "<a href=\"http://www.parkfarmwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.961242,
+          42.51861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Penoach Vineyard & Winery",
+        "Address": "2667 N Ave<br />Adel, IA 50003",
+        "Website": "<a href=\"http://www.penoach.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.023081,
+          41.645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Plum Creek Winery",
+        "Address": "2306 160th Ave<br />Algona, IA 50511",
+        "Website": "<a href=\"http://www.plumcreekwines.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.147085,
+          43.106715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Prairie Crossing Vineyard & Winery",
+        "Address": "31506 Pioneer Trail<br />Treynor, IA 51575",
+        "Website": "<a href=\"http://www.prairiecrossingwine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.585702,
+          41.189622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Prairie Hawk Vineyard & Winery",
+        "Address": "21496 Chestnut Rd<br />Council Bluffs, IA 51503",
+        "Website": "<a href=\"http://phwine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.77606,
+          41.215772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Prairie Moon Winery & Vineyards",
+        "Address": "3801 W 190th St<br />Ames, IA 50014",
+        "Website": "<a href=\"http://www.prairiemoonwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.669979,
+          42.077812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Promise Land Winery",
+        "Address": "39055 Great River Road<br />Guttenberg, IA 52052",
+        "Website": "<a href=\"http://promiselandwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.108233,
+          42.804915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "ReVasser Winery",
+        "Address": "1749 Yucca Ave<br />Ainsworth, IA 52201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.502587,
+          41.402168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "River Valley Orchards & Winery",
+        "Address": "1645 220th St<br />Humboldt, IA 50548",
+        "Website": "<a href=\"http://rivervalleyorchards.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.232284,
+          42.731854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Rustic River Winery",
+        "Address": "3132 Rofe Ave<br />Lake View, IA 51450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.053324,
+          42.31165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Santa Maria Vineyard & Winery",
+        "Address": "218 West 6th St<br />Carroll, IA 51401",
+        "Website": "<a href=\"http://www.santamariawinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.869567,
+          42.066568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Snus Hill Vineyard & Winery",
+        "Address": "2183 320th St<br />Madrid, IA 50156",
+        "Website": "<a href=\"http://snushillwine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.740044,
+          41.892531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Soldier Creek Winery",
+        "Address": "1584 Paragon Ave<br />Fort Dodge, IA 50501",
+        "Website": "<a href=\"http://soldiercreekwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.147618,
+          42.559622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Stone Cliff Winery",
+        "Address": "474 Bluff St<br />Dubuque, IA 52001",
+        "Website": "<a href=\"https://www.stonecliffwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.667599,
+          42.497547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Sugar Clay Winery & Vineyards",
+        "Address": "1446 240th Ave<br />Thurman, IA 51654",
+        "Website": "<a href=\"http://sugarclaywinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.721439,
+          40.836558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Summerset Winery",
+        "Address": "15101 Fairfax<br />Indianola, IA 50125",
+        "Website": "<a href=\"http://www.summersetwine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.52261,
+          41.435652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Sunset Ridge Winery",
+        "Address": "12613 Hwy 52 North<br />Dubuque, IA 52002",
+        "Website": "<a href=\"http://www.sunsetridgewinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.734349,
+          42.563042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Tabor Home Winery & Vineyard",
+        "Address": "3570 67th St<br />Baldwin, IA 52207",
+        "Website": "<a href=\"https://www.taborwines.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.856197,
+          42.092949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Tassel Ridge Winery / Meadow Creek Vineyard",
+        "Address": "1681 220th St<br />Leighton, IA 50143",
+        "Website": "<a href=\"http://tasselridge.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.741462,
+          41.335423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "TownsEnd Winery",
+        "Address": "2138 160th St<br />Hansel, IA 50441",
+        "Website": "<a href=\"http://www.townsendwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.101188,
+          42.759864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Train Wreck Winery",
+        "Address": "112 N State St<br />Algona, IA 50511",
+        "Website": "<a href=\"http://trainwreckwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.236137,
+          43.068852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Tucker Hill Vineyards Inc",
+        "Address": "26001 Titan<br />Hinton, IA 51024",
+        "Website": "<a href=\"http://www.tuckerhillwine.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.299168,
+          42.616771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Two Saints Winery",
+        "Address": "15170 20th Ave<br />St. Charles, IA 50240",
+        "Website": "<a href=\"http://www.twosaintswinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.770307,
+          41.275578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Tycoga Vineyard & Winery",
+        "Address": "2585 195th St<br />DeWitt, IA 52742",
+        "Website": "<a href=\"http://www.tycoga.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.589488,
+          41.893293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "VanWijk Wine",
+        "Address": "802 4th St<br />Sully, IA 50251",
+        "Website": "<a href=\"http://van-wijk-winery.myshopify.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.844494,
+          41.578054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Vine Street Cellars",
+        "Address": "17 N Vine St<br />Glenwood, IA 51534",
+        "Website": "<a href=\"http://vinestreetcellars.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.741498,
+          41.046876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Vines to Wines Cellar",
+        "Address": "684 20th St<br />Des Moines, IA 50314",
+        "Website": "<a href=\"http://www.vinestowinesdm.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.644052,
+          41.589377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Wabash Wine Company",
+        "Address": "800 West Ferguson Rd<br />Shenandoah, IA 51601",
+        "Website": "<a href=\"http://www.wabashwinecompany.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.376408,
+          40.771717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Walnut Tree Winery",
+        "Address": "1197 13th St<br />Marion, IA 52302",
+        "Website": "<a href=\"https://www.facebook.com/Walnut-Tree-Wines-176099289111928/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.595377,
+          42.037568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Wide River Winery",
+        "Address": "1776 East Deer Creek Road<br />Clinton, IA 52732",
+        "Website": "<a href=\"http://wideriverwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.183218,
+          41.918912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Widmar Family Winery",
+        "Address": "209 E Maple St #1<br />Centerville, IA 52544",
+        "Website": "<a href=\"https://www.facebook.com/WidmarWineryCenterville/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.873161,
+          40.732531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Winneshiek Wildberry Winery",
+        "Address": "1966 337th St<br />Decorah, IA 52101",
+        "Website": "<a href=\"http://www.wwwinery.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.787142,
+          43.42689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77287e",
+        "marker-size": "medium",
+        "marker-symbol": "alcohol-shop",
+        "Name": "Wooden Wheel Vineyards",
+        "Address": "PO Box 305<br />1179 Hwy 92<br />Keota, IA 52248",
+        "Website": "<a href=\"http://www.woodenwheelvineyards.com/\"</a>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.907340,
+          41.337026
+        ]
+      }
+    }
+  ]
+}
