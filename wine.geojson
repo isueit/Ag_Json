@@ -1083,14 +1083,14 @@
         "marker-size": "medium",
         "marker-symbol": "alcohol-shop",
         "Name": "Loess Hills Vineyard & Winery",
-        "Address": "1120 Old Highway<br />Crescent, IA 51526",
+        "Address": "1120 Old Lincoln Highway<br />Crescent, IA 51526",
         "Website": "<a href=\"http://www.loesshillsvineyardandwinery.com/\">http://www.loesshillsvineyardsandwinery.com/</a>"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.477280,
-          42.901642
+          -95.858849,
+          41.368786
         ]
       }
     },
