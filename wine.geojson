@@ -495,7 +495,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Crane Winery",
         "Address": "11420 Main St<br />Selma, IA 52551",
-        "Website": "<a href=\"http://www.cranewinery.net/index.html\">http://www.cranewinery.net/index.html"</a>
+        "Website": "<a href=\"http://www.cranewinery.net/index.html\">http://www.cranewinery.net/index.html</a>"
       },
       "geometry": {
         "type": "Point",
