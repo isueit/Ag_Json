@@ -9,7 +9,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "99 Bottles Winery",
         "Address": "2695 Quali Ave<br />Garner, IA 50438",
-        "Website": "http://www.99bottleswinery.com/"
+        "Website": "<a href=\"http://www.99bottleswinery.com/\">http://www.99bottleswinery.com/</a>"
       },
       "geometry": {
         "type": "Point",
