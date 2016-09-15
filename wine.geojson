@@ -513,7 +513,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Crimson Sunset Vineyard & Winery",
         "Address": "24765 Hwy 151<br />Cascade, IA 52033",
-        "Website": "<a href=\"http://www.crimsonsunsetwinery.com/\">http://www.crimsonsunsetwinery.com/"</a>
+        "Website": "<a href=\"http://www.crimsonsunsetwinery.com/\">http://www.crimsonsunsetwinery.com/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -531,7 +531,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Dale Valley Vineyards & Winery",
         "Address": "3097 285 St<br />Stuart, IA 50250",
-        "Website": "<a href=\"http://dalevalleyvineyard.com/\">http:dalevalleyvineyard.com/"</a>
+        "Website": "<a href=\"http://dalevalleyvineyard.com/\">http:dalevalleyvineyard.com/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +549,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Daly Creek Winery & Bistro",
         "Address": "106 N Main Ford St<br />Anamosa, IA 52205",
-        "Website": "<a href=\"http://www.dalycreekwinery.com/\">http://www.dalycreekwinery.com/"</a>
+        "Website": "<a href=\"http://www.dalycreekwinery.com/\">http://www.dalycreekwinery.com/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +567,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Danish Countryside Vines & Wines",
         "Address": "1425 Littlefield Drive<br />Exira, IA 50076",
-        "Website": "<a href=\"http://www.danishcountrysidevinesandwines.com/\">http://www.danishcountrysidevinesandwines.com/"</a>
+        "Website": "<a href=\"http://www.danishcountrysidevinesandwines.com/\">http://www.danishcountrysidevinesandwines.com/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -585,7 +585,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Deja Vine Vineyards & Winery",
         "Address": "259 Broad Ave<br />Springville, IA 52336",
-        "Website": "<a href=\"http://www.dejavine.com/\">http://www.dejavine.com/"</a>
+        "Website": "<a href=\"http://www.dejavine.com/\">http://www.dejavine.com/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +603,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Sweetland Farmstead Winery",
         "Address": "3111 Hwy 61<br />Muscatine, IA 52761",
-        "Website": "<a href=\"https://www.facebook.com/SweetlandFarmsteadLlc/\">https://www.facebook.com/SweetlandFarmsteadLlc/"</a>
+        "Website": "<a href=\"https://www.facebook.com/SweetlandFarmsteadLlc/\">https://www.facebook.com/SweetlandFarmsteadLlc/</a>"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Dome Winery LLC",
         "Address": "1324 Hwy 69<br />Belmond, IA 50421",
-        "Website": "<a href=\"https://www.facebook.com/Dome-Winery-452386958242044/\">https://www.facebook.com/Dome-Winery-452386958242044/"</a>
+        "Website": "<a href=\"https://www.facebook.com/Dome-Winery-452386958242044/\">https://www.facebook.com/Dome-Winery-452386958242044/</a>"
       },
       "geometry": {
         "type": "Point",
