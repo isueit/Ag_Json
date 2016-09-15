@@ -869,7 +869,7 @@
         "marker-symbol": "alcohol-shop",
         "Name": "Grape Escape Vineyard",
         "Address": "1185 40th Place<br />Pleasantville, IA 50225",
-        "Website": "<href=\"http://grapeescapeiowa.com/\">http://grapeescapeiowa.com/</a>"
+        "Website": "<a href=\"http://grapeescapeiowa.com/\">http://grapeescapeiowa.com/</a>"
       },
       "geometry": {
         "type": "Point",
