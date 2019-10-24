@@ -177,6 +177,86 @@
         ]
       }
     },
+        {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "South Dakota State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.798560,
+          44.307940
+        ]
+      }
+    },
+         {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1be48",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "Name": "Tech4Impact"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.697647,
+          41.669319
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1be48",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "Name": "Iowa Workforce Development"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.624962,
+          41.586834
+        ]
+      }
+    },
+         {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1be48",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "Name": "Easter Seals"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.624962,
+          41.586834
+        ]
+      }
+    },
+         {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f1be48",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "Name": "Iowa Department for the Blind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.624962,
+          41.586834
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
