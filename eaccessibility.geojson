@@ -39,6 +39,230 @@
         "marker-color": "#cc0000",
         "marker-size": "medium",
         "marker-symbol": "college",
+        "Name": "Tennessee School for the Deaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.920738,
+          35.960636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "University of Colorado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.279617,
+          40.016869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "Michigan Technological University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.564461,
+          47.121231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "Saint Vincent College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.381081,
+          40.318279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "California State University Fullerton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.924210,
+          33.870365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "shop",
+        "Name": "Cyxtera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.268387,
+          25.721491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "McLennan Community College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.129990,
+          31.556770
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "Virginia Commonwealth University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.436050,
+          37.540726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "Norco College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.554176,
+          33.924309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "University of Hawaii at Manoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.858337,
+          21.306944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "University of Alabama at Birmingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.807701,
+          33.522861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "Metropolitan Community College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.934502,
+          41.256538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "University of Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332069,
+          47.606209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "Name": "Wichita State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.330055,
+          37.687176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc0000",
+        "marker-size": "medium",
+        "marker-symbol": "college",
         "Name": "University of Alaska Fairbanks"
       },
       "geometry": {
