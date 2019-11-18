@@ -44,8 +44,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.920738,
-          35.960636
+          -83.890617,
+          35.929459
         ]
       }
     },
@@ -116,7 +116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#cc0000",
+        "marker-color": "#f1be48",
         "marker-size": "medium",
         "marker-symbol": "shop",
         "Name": "Cyxtera"
